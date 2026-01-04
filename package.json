@@ -1,0 +1,15 @@
+{
+  "name": "dsa-ts",
+  "version": "1.0.0",
+  "description": "My dsa package written in typescript",
+  "license": "MIT",
+  "author": "Sayanjit Mukherjee",
+  "type": "module",
+  "main": "hello.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
